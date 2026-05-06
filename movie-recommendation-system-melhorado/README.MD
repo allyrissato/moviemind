@@ -149,14 +149,9 @@ O sistema usa:
 Ele transforma texto em números e compara quais filmes são mais parecidos com o filme escolhido.
 
 ---
+## Dashboard
 
-## 💼 Como apresentar em entrevista
-
-Você pode dizer:
-
-> Desenvolvi um sistema de recomendação de filmes em Python usando Streamlit. O projeto utiliza TF-IDF e similaridade do cosseno para indicar filmes parecidos com base em título e gênero. Também implementei uma interface visual inspirada em plataformas de streaming, integração com API externa, tratamento de erros e dashboard com análise da base de dados.
-
----
+![Dashboard](images/dashboard.png)
 
 ## 🔮 Próximas melhorias possíveis
 
