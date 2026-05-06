@@ -209,6 +209,42 @@ O projeto pode ser publicado utilizando:
 
 ---
 
+# 🖼️ Preview do Sistema
+
+## 🏠 Tela Inicial
+
+![Tela Inicial](images/Captura%20de%20tela%202026-05-06%20145853.png)
+
+---
+
+## 🔥 Sugestões em destaque
+
+![Busca de Filmes](images/Captura%20de%20tela%202026-05-06%20145908.png)
+
+---
+
+## ⭐ Recomendações Inteligentes
+
+![Recomendações](images/Captura%20de%20tela%202026-05-06%20150018.png)
+
+---
+
+## 🎥 Filmes baseados no seu gosto pessoal
+
+![Catálogo](images/Captura%20de%20tela%202026-05-06%20150050.png)
+
+---
+
+## 🎬 Catálogo de Filmes
+
+![Dashboard](images/Captura%20de%20tela%202026-05-06%20150104.png)
+
+---
+
+## 📊 Gráficos
+
+![Interface](images/Captura%20de%20tela%202026-05-06%20150114.png)
+
 # 👩‍💻 Desenvolvedora
 
 **Alianny Rissato**
